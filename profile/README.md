@@ -60,7 +60,7 @@ Hệ thống được chia theo mô hình Client – Server:
 | **Thình Vĩnh Phát** | 22697421 |
 | **Mai Huỳnh Dương Tuấn Kiệt** | 22664321 |
 | **Nguyễn Thị Yến Bình** | 22694091 |
-
+| **Nguyễn An Nguyên** | 22669111 |
 ---
 
 ## 🧭 Quy Ước Làm Việc
