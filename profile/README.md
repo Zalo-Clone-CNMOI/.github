@@ -3,7 +3,7 @@
 
 Đây là GitHub Organization phục vụ cho **môn học Công Nghệ Mới (CN Mới)**  
 Học kỳ: **HK2 – Năm học 2025–2026**  
-Lớp: **DHKTOM18CTT_CT4**
+Lớp: **DHKTPM18CTT_CT4**
 
 Mục tiêu của project là xây dựng một **ứng dụng Zalo Clone** với các chức năng nhắn tin, quản lý người dùng và realtime communication, áp dụng các công nghệ mới trong phát triển phần mềm.
 
@@ -32,7 +32,7 @@ Hệ thống được chia theo mô hình Client – Server:
 - PostgreSQL / MongoDB
 
 ### 🎨 Frontend
-- React / Next.js hoặc React Native
+- React Native
 - Giao diện chat realtime
 - Quản lý state với Context / Redux
 
